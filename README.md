@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Heyy061/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heyy061/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Heyy061/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Heyy061/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heyy061/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Heyy061/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Heyy061/DSA/tree/master/0344-reverse-string) |
@@ -16,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Heyy061/DSA/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Heyy061/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
