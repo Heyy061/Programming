@@ -28,3 +28,4 @@ public:
         return ans;
     }
 };
+//Logic:-Keep a window of size k, add the incoming character's vowel value, remove the outgoing character's vowel value, and keep track of the maximum vowel count.
