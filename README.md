@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Heyy061/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Heyy061/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Heyy061/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1695-maximum-erasure-value](https://github.com/Heyy061/DSA/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Heyy061/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Heyy061/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Heyy061/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Heyy061/DSA/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Heyy061/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Heyy061/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Heyy061/DSA/tree/master/0567-permutation-in-string) |
+| [1695-maximum-erasure-value](https://github.com/Heyy061/DSA/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
