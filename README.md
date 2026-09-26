@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Heyy061/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Heyy061/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Heyy061/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Heyy061/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Heyy061/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/Heyy061/DSA/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Heyy061/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Heyy061/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Heyy061/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Heyy061/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Heyy061/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Heyy061/DSA/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Heyy061/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Heyy061/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Heyy061/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Heyy061/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Heyy061/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Heyy061/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Heyy061/DSA/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Heyy061/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1695-maximum-erasure-value](https://github.com/Heyy061/DSA/tree/master/1695-maximum-erasure-value) |
 ## Design
 |  |
