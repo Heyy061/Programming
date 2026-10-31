@@ -39,7 +39,7 @@ public:
             return true;
         }
     }else{
-        firstOcc[prefixREM]=i+1;
+        firstOcc[prefixREM]=i+1; //agar exist nhi karti toh assign kar do value ish index par 
     }
  }
  return false;
