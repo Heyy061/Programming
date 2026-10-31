@@ -35,7 +35,7 @@ public:
  for(int i=0;i<n;i++){
     prefixREM=(prefixREM+nums[i])%k;  //reminder of prefix sum value
     if(firstOcc.find(prefixREM) !=firstOcc.end()){//agar prefixREM value map me h
-        if(i+1-firstOcc[prefixREM]>=2){
+        if(i+1-firstOcc[prefixREM]>=2){  //length conditon also check
             return true;
         }
     }else{
