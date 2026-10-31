@@ -1,3 +1,5 @@
+//Jab bhi prefix sum +map hoga to alag se prefix sum mat nikaliyo ak hi loop me kaam khatam kar diyo
+
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
