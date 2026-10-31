@@ -10,7 +10,7 @@ public:
     // vector<int>prefix(nums.size()+1);
     // prefix[0]=0;
     // for(int i=0;i<nums.size();i++){
-    //     prefix[i+1]=(prefix[i]+nums[i])%k;    
+    //     prefix[i+1]=prefix[i]+nums[i];    
     // }
     
 //    for (int i = 0; i < nums.size(); i++) {
