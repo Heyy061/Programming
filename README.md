@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Heyy061/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Heyy061/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Heyy061/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Heyy061/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Heyy061/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -108,6 +109,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Heyy061/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Heyy061/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Heyy061/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Heyy061/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Heyy061/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
